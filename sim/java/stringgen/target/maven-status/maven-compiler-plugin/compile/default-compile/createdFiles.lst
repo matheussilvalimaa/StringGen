@@ -1,0 +1,6 @@
+com\stringgen\application\StringGenerationService.class
+com\stringgen\domain\StringGenerator.class
+com\stringgen\Main.class
+com\stringgen\domain\Validations.class
+com\stringgen\domain\IStringGenerator.class
+com\stringgen\domain\CharacterSets.class
