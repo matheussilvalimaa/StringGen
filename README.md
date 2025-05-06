@@ -1,6 +1,6 @@
 # StringGen - Random String Generator
 
-**StringGen** is a simple project developed in **Java** (with Maven) and **C#**. It generates random strings based on parameters like length and character types (letters, numbers, symbols, etc.).
+**StringGen** is a simple project developed in **C#**. It generates random strings based on parameters like length and character types (letters, numbers, symbols, etc.).
 
 ---
 
@@ -15,11 +15,10 @@
 ---
 
 ## 🚀 Technologies Used
-### 🛠 Java
-- **Maven**: Used for dependency management and project build.
 
 ### 💻 C#
 - Developed using basic .NET functionalities.
+- Used .NET built-in cryptography libraries.
 
 ---
 
