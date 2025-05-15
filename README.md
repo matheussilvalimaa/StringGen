@@ -14,25 +14,6 @@
 
 ---
 
-## 🚀 Technologies Used
-
-### 💻 C#
-- Developed using basic .NET functionalities.
-- Used .NET built-in cryptography libraries.
-
----
-
-## 📦 Requirements
-
-### To run the **Java** project:
-- **Java JDK 17** or higher.
-- **Maven 3.8.1** or higher.
-
-### To run the **C#** project:
-- **.NET SDK 6.0** or higher.
-
----
-
 ## 🤝 Contributing
 - Contributions are welcome! Feel free to open a Pull Request or report issues through Issues.
 
